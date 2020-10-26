@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(78,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(104,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(127,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(149,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(160,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(173,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(184,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(211,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(212,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(220,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(225,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(248,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(259,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(272,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\piontek\Documents\Projects\Playfair_encryption\Playfair_encryption\Source.cpp(283,22): warning C4018: '<': signed/unsigned mismatch
+  Playfair_encryption.vcxproj -> C:\Users\piontek\Documents\Projects\Playfair_encryption\Debug\Playfair_encryption.exe
